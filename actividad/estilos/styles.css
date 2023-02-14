@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(246, 217, 175);
+}
+h1{
+    position: relative;
+    text-align: center;
+}
+h2{
+    position: relative;
+    left: 350px;
+    border: 2px solid black;
+    margin-right: 700px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 18px;
+    padding: 3px;
+    background-color: gold;
+    color: solid black;
+    margin: 4px;
+    display: inline;
+    position: relative;
+    top: 30px;
+    left: 850px;
+}
+.Logo{
+    position: relative;
+    float: left;
+    width: 220px;
+    margin-bottom: 80px;
+    top: 50px;
+}
+nav{
+    
+    width: 700px;
+    position: relative;
+    
+}
+.Foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+hr{
+    width: 0px;
+}
